@@ -4,7 +4,9 @@ Plugin for the mod BeardLib-Editor here https://github.com/simon-wh/PAYDAY-2-Bea
 Adds features that cannot be added through lua.
 Build the project using CMake.
 
-## Template: https://gitlab.com/SuperBLT/native-plugin-template
+## Template: 
+
+https://gitlab.com/SuperBLT/native-plugin-template
 
 ## Licence
 
